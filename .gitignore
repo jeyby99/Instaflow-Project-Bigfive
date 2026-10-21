@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+# Python Virtual Environments
+venv/
+.venv/
+ENV/
+
+# Sensitive configuration & keys (env/ folder)
+env/
+cookies.json
+*.cookie
+*.session
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
